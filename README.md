@@ -43,10 +43,10 @@
 
 ### Collaboration
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/3491edfc-dd57-48ee-acd7-e376e5612e40" height="45" alt="slack logo" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,notion,postman" />
   </a>
+  <img src="https://github.com/user-attachments/assets/3491edfc-dd57-48ee-acd7-e376e5612e40" height="45" alt="slack logo" />
 </div>
 
 ---
