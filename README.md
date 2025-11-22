@@ -65,6 +65,8 @@
   
   [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-gr?style=for-the-badge&logo=Naver&logoColor=white)](mailto:ok6737@naver.com)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ok67378@gmail.com)
+
+  
   [![Tistory](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://devoks.tistory.com/)
   
 </div>
