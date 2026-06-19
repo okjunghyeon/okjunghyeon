@@ -5,16 +5,16 @@
 
 ## 🙋About Me
 
-### 안녕하세요! Spring Boot 기반 신입 백엔드 개발자 옥정현입니다.
+### 안녕하세요! 정합성과 운영 안정성을 함께 고려하는 Spring Boot 기반 신입 백엔드 개발자 옥정현입니다.
 <br>
 
 > 🌱 **새로운 기술을 학습하고 적용하며 꾸준히 성장해 나가는 것에 관심이 많습니다.**
 > 
 > ✨ **사용자에게는 편안한 서비스를, 동료에게는 확신을 주는 개발자가 되고자 합니다.**
 >
-> 🤝 **팀원과 함께 성장하는 과정에서 개발의 즐거움을 찾습니다. 적극적인 소통을 기반으로 팀의 가치를 높입니다.**
+> 🤝 **Swagger 문서화, PR 리뷰, 코드 주석을 통해 팀원이 같은 기준으로 이해하고 협업할 수 있는 개발 문화를 중요하게 생각합니다.**
 >
-> 📝 **학습한 내용을 기술 블로그에 꾸준히 정리하며 지식을 공유합니다.**
+> 📝 **학습한 내용과 문제 해결 과정을 기술 블로그에 꾸준히 정리하며 성장하고 있습니다.**
 
 ---
 
@@ -63,9 +63,7 @@
 
 <div align="left">
   
-  [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-gr?style=for-the-badge&logo=Naver&logoColor=white)](mailto:ok6737@naver.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ok67378@gmail.com)
-
+  [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-gr?style=for-the-badge&logo=Naver&logoColor=white)](mailto:devoks@naver.com)
   
   [![Tistory](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://devoks.tistory.com/)
   
